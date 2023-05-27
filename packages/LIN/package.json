@@ -1,5 +1,5 @@
 {
-  "name": "LINYT-UI",
+  "name": "linyt-ui",
   "version": "1.0.0",
   "main": "lib/index.js",
   "module": "es/index.mjs",
