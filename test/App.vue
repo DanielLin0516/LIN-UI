@@ -1,7 +1,7 @@
 <template>
   <div>
-
-    <LButton></LButton>
+    <LButton>测试按钮</LButton>
+    <LIcon></LIcon>
   </div>
 </template>
 

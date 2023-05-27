@@ -1,0 +1,1 @@
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const t=require("./icon.vue2.js"),e=require("vue"),r=require("../_virtual/_plugin-vue_export-helper.js");function u(o,c,l,i,_,s){return e.openBlock(),e.createElementBlock("div",null,"icon")}const n=r.default(t.default,[["render",u]]);exports.default=n;
