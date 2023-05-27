@@ -1,0 +1,21 @@
+{
+  "name": "LIN",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "LIN",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "林逸廷",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts"
+}
